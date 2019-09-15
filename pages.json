@@ -5,8 +5,28 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
-		}
-	],
+		},
+    {
+        "path" : "pages/question/question",
+        "style" : {}
+    },
+    {
+        "path" : "pages/question/single_choice/single_choice",
+        "style" : {}
+    },
+    {
+        "path" : "pages/question/multiple_choice/multiple_choice",
+        "style" : {}
+    },
+    {
+        "path" : "pages/question/judgment_choice/judgment_choice",
+        "style" : {}
+    },
+    {
+        "path" : "pages/question/case_choice/case_choice",
+        "style" : {}
+    }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
